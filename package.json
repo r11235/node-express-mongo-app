@@ -1,0 +1,18 @@
+{
+  "name": "nodeexpress-mongo",
+  "version": "1.0.0",
+  "description": "A node, express, mongo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Rachel Malucci",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  }
+}

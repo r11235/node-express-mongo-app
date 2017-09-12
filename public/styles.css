@@ -1,0 +1,42 @@
+html {
+  font-size: 20px;
+}
+
+.quote {
+  margin-top: 0.5em;
+}
+
+.quote > span:first-child {
+  font-weight: bold
+}
+
+.quote > span:first-child:after {
+  content:':'
+}
+
+body {
+	background-color: #f7f2d4;
+	color: #696969;
+}
+
+input {
+	height: 20px;
+	font-size: 15px;
+}
+
+button {
+	height: 25px;
+}
+
+#delete {
+    color: #5014b8;
+}
+
+#delete2 {
+    color: #5014b8;
+}
+
+ul {
+	/*float: left;*/
+	/*margin-right: 100px;*/
+}
